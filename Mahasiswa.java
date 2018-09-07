@@ -1,6 +1,6 @@
 public class Mahasiswa{
-    public String nama;
-    public String NPM;
+    private String nama;
+    private String NPM;
 
     public Mahasiswa(String nama, String NPM){
         this.nama = nama;
